@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Dinozauras",
+    "password": "drozykla",
+    "email": "dinozauras@droziukarius.lt",
+    "phone_number": "868854796",
+    "adress": "CCNA",
+    "orderId": []
+  },
+  {
+    "id": 2,
+    "name": "Stregozauras",
+    "password": "gal laikas i pensija",
+    "email": "mirstuDarbe@example.com",
+    "phone_number": "8688524796",
+    "adress": "Ausko amzius prisma",
+    "orderId": []
+  },
+  {
+    "id": 3,
+    "name": "Droztukas",
+    "password": "pagarba",
+    "email": "kazkoksLevasDarbas@gmail.drozykla",
+    "phone_number": "868854796",
+    "adress": "droztiKarius",
+    "orderId": []
+  }
+]
