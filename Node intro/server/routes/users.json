@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "username": "testas2",
+    "password": "testas2",
+    "email": "testasNaujasEmail@example.com",
+    "registered_on": "2024-02-27",
+    "reservation": []
+  },
+  {
+    "id": 2,
+    "username": "testas3",
+    "password": "testas3",
+    "email": "testas@example.com",
+    "registered_on": "2024-02-27",
+    "reservation": []
+  },
+  {
+    "id": 3,
+    "username": "testas4",
+    "password": "testas4",
+    "email": "testas@example.com",
+    "registered_on": "2024-02-27",
+    "reservation": []
+  },
+  {
+    "username": "testas5",
+    "password": "testas5",
+    "email": "testas5@example.com",
+    "registered_on": "2024-02-27",
+    "id": 4
+  },
+  {
+    "username": "testas6",
+    "password": "testas6",
+    "email": "testas5@example.com",
+    "registered_on": "2024-02-27",
+    "reservation": [],
+    "id": 5
+  },
+  {
+    "username": "testas7",
+    "password": "testass7",
+    "email": "testa7@example.com",
+    "id": 6,
+    "registered_on": "2024-02-28",
+    "reservation": []
+  }
+]
