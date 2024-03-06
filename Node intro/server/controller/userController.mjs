@@ -61,7 +61,7 @@ const userController = {
     }
   },
 
-  getUsetById: (req, res) => {
+  getUserById: (req, res) => {
     try {
       const id = parseInt(req.params.id);
 
@@ -123,7 +123,7 @@ const userController = {
       users[userIndex] = { ...users[userIndex], ...updatedFields };
 
       await fs.promises.writeFile(
-        path.join(__dirname, "users.json"),
+        path.join(__dirname, "../db/users.json"),
         JSON.stringify(users, null, 2)
       );
       res.status(200).json(updateUser);
